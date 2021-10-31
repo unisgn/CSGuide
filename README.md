@@ -153,4 +153,4 @@ CS学习路线，包括科班、非科班、Web、全栈、C++、Java、System�
 
 **推荐阅读**：
 
-四大基础课网课：[CS经典课程，起飞！](
+四大基础课网课：[CS经典课程，起飞！](https://mp.weixin.qq.com/s/bkLpjLxqQHaBTwCiz3VwBA)
